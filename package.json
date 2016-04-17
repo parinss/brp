@@ -1,0 +1,26 @@
+{
+  "name": "brp",
+  "version": "1.0.0",
+  "description": "Best Rubber Products Website",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parinss/brp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/parinss/brp/issues"
+  },
+  "homepage": "https://github.com/parinss/brp#readme",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0"
+  }
+}
